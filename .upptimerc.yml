@@ -12,6 +12,11 @@ sites:
     url: 51.79.73.167
     slug: d4k-mail-server
     port: 993
+  - name: D4K Control Panel
+    check: "tcp-ping"
+    url: 51.79.73.167
+    slug: d4k-control-panel
+    port: 2083
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
