@@ -7,6 +7,11 @@ sites:
     url: https://www.d4khosting.ca
     slug: d4k-hosting-server
     icon: https://www.d4khosting.ca/favicon.ico
+  - name: D4K Mail Server
+    check: "tcp-ping"
+    url: 51.79.73.167
+    slug: d4k-mail-server
+    port: 993
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
