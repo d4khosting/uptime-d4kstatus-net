@@ -6,15 +6,17 @@ sites:
   - name: D4K Hosting Server
     url: https://www.d4khosting.ca
     slug: d4k-hosting-server
-    icon: https://www.d4khosting.ca/favicon.ico
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/698ab1a07631821edc018ad98028055da4efe806/assets/d4k-communications-favicon-01.svg
   - name: D4K Mail Server
     check: "tcp-ping"
     url: 51.79.73.167
     slug: d4k-mail-server
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/698ab1a07631821edc018ad98028055da4efe806/assets/mail-favicon-01.svg
     port: 993
   - name: D4K Control Panel
     check: "tcp-ping"
     url: 51.79.73.167
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/698ab1a07631821edc018ad98028055da4efe806/assets/d4k-hosting-favicon.svg
     slug: d4k-control-panel
     port: 2083
 
