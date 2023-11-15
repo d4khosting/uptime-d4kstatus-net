@@ -24,16 +24,16 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: D4K Hosting Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime Status for D4K Hosting**"
+  introMessage: Real-time status and historical uptime records of the D4K web server and hosting services. In the event of and outage, updates will be posted here. Contact D4K Hosting at support@hosting.ca if your website is down even though the D4K web hosting server is up.
   metaTags:
     - name: "robots"
       content: "noindex"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: D4K Hosting
+      href: https://www.d4khosting.ca
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
