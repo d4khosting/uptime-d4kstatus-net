@@ -5,7 +5,7 @@ repo: uptime-d4kstatus-net # The name of this repository
 sites:
   - name: Web Hosting Server
     url: https://vps.d4kservers.net
-    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/d4k-communications-favicon-01.svg
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/internet-favicon-01.svg
   - name: Mail Services
     check: "tcp-ping"
     url: 51.79.73.167
