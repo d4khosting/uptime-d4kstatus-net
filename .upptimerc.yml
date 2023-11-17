@@ -23,6 +23,7 @@ status-website:
   cname: www.d4kstatus.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: d4k-status
   themeUrl: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/d4k-status.css
   name: D4K Hosting Status
   introTitle: "**Uptime Status for D4K Hosting**"
