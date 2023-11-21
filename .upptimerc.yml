@@ -22,11 +22,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.d4kstatus.net
   # baseUrl: /your-repo-name
+  faviconSvg: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
   logoUrl: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-logo-light-dark-01.svg
-  # custom theme settings don't seem to work with custom domains
-  # theme: d4k-status
-  # themeUrl: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/d4k-status.css
   links:
+    - rel: preconnect
+      href: https://fonts.googleapis.com
+    - rel: preconnect
+      href: https://fonts.gstatic.com
+    - rel: stylesheet
+      href: https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap
     - rel: stylesheet
       href: https://d4khosting.github.io/uptime-assets/css/d4k-status.css
   name: D4K Hosting Status
