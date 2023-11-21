@@ -1,6 +1,5 @@
-# Change these first
-owner: d4khosting # Your GitHub organization or username, where this repository lives
-repo: uptime-d4kstatus-net # The name of this repository
+owner: d4khosting 
+repo: uptime-d4kstatus-net 
 
 sites:
   - name: Web Hosting Server
@@ -18,13 +17,10 @@ sites:
     port: 2083
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.d4kstatus.net
-  # baseUrl: /your-repo-name
   favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
   faviconSvg: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
-  logoUrl: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-logo-light-dark-01.svg
+  logoUrl: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-logo-2023.svg
   links:
     - rel: preconnect
       href: https://fonts.googleapis.com
@@ -40,11 +36,3 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
-  # navbar:
-  #  - title: Status
-  #    href: /
-  #  - title: D4K Hosting
-  #    href: https://www.d4khosting.ca
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
