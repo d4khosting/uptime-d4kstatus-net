@@ -22,6 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.d4kstatus.net
   # baseUrl: /your-repo-name
+  favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
   faviconSvg: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
   logoUrl: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-logo-light-dark-01.svg
   links:
