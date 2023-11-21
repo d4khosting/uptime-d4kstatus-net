@@ -40,11 +40,11 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
-  navbar:
-    - title: Status
-      href: /
-    - title: D4K Hosting
-      href: https://www.d4khosting.ca
+  # navbar:
+  #  - title: Status
+  #    href: /
+  #  - title: D4K Hosting
+  #    href: https://www.d4khosting.ca
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
