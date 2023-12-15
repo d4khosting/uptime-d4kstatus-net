@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 200,
-    "timeWeek": 248,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 232,
+    "timeDay": 444,
+    "timeWeek": 250,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/mail-favicon-01.svg",
     "slug": "mail-services",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.68%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "85.76%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
     "time": 31,
-    "timeDay": 21,
-    "timeWeek": 35,
+    "timeDay": 0,
+    "timeWeek": 30,
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-15": 40,
+      "2023-12-14": 1395
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/d4k-hosting-favicon.svg",
     "slug": "control-panel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.68%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "85.76%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
     "time": 31,
-    "timeDay": 23,
-    "timeWeek": 35,
+    "timeDay": 0,
+    "timeWeek": 30,
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-15": 40,
+      "2023-12-14": 1395
     }
   }
 ]
