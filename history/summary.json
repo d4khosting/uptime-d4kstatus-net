@@ -4,19 +4,19 @@
     "url": "https://vps.d4kservers.net",
     "icon": "https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/internet-favicon-01.svg",
     "slug": "web-hosting-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 212,
-    "timeWeek": 253,
-    "timeMonth": 276,
-    "timeYear": 273,
+    "timeDay": 250,
+    "timeWeek": 258,
+    "timeMonth": 277,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 19
     }
   },
   {
