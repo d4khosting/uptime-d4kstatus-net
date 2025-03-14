@@ -2,19 +2,26 @@ owner: d4khosting
 repo: uptime-d4kstatus-net 
 
 sites:
-  - name: Web Hosting Server
-    url: https://vps.d4kservers.net
+  - name: West Web Server (Vancouver)
+    url: https://vps.d4khosting.net
+    slug: vancouver-server
     icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/internet-favicon-01.svg
-  - name: Mail Services
+  - name: West Mail Services
     check: "tcp-ping"
-    url: 51.79.73.167
+    url: 65.39.177.16
+    slug: vancouver-mail
     icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/mail-favicon-01.svg
     port: 993
-  - name: Control Panel
+  - name: East Web Server (Montreal)
+    url: https://vps.d4kservers.net
+    slug: montreal-server
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/internet-favicon-01.svg
+  - name: East Mail Services
     check: "tcp-ping"
     url: 51.79.73.167
-    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/d4k-hosting-favicon.svg
-    port: 2083
+    slug: montreal-mail
+    icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/mail-favicon-01.svg
+    port: 993
 
 status-website:
   cname: www.d4kstatus.net
@@ -32,7 +39,7 @@ status-website:
       href: https://d4khosting.github.io/uptime-assets/css/d4k-status.css
   name: D4K Hosting Status
   introTitle: "**Uptime Status for D4K Hosting**"
-  introMessage: Real-time status and historical uptime records of the D4K web server and hosting services. During an outage, updates will be posted here. Contact D4K Hosting by email at [support@hosting.ca](mailto:support@hosting.ca) if your website is down even though the web hosting server below is up.
+  introMessage: Real-time status and historical uptime records of the D4K web hosting and mail services. During an outage, updates will be posted here. Contact D4K Hosting by email at [support@hosting.ca](mailto:support@hosting.ca) if your website is down when there are no web server problems reported below.
   metaTags:
     - name: "robots"
       content: "noindex"
