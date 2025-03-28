@@ -10,7 +10,7 @@ sites:
     url: https://vps.d4kservers.net
     slug: d4k-servers-net
     icon: https://raw.githubusercontent.com/d4khosting/uptime-d4kstatus-net/master/assets/internet-favicon-01.svg
-    
+
 status-website:
   cname: www.d4kstatus.net
   favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
@@ -31,4 +31,6 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
+
+i18n:
   locale: en-CA
