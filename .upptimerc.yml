@@ -4,11 +4,9 @@ repo: uptime-d4kstatus-net
 sites:
   - name: CAN West Server (Vancouver)
     url: https://vps.d4khosting.net
-    slug: d4k-hosting-net
     icon: https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg
   - name: CAN East Server (Montreal)
     url: https://vps.d4kservers.net
-    slug: d4k-servers-net
     icon: https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg
 
 status-website:
