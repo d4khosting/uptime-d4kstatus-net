@@ -5,18 +5,19 @@
     "icon": "https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg",
     "slug": "can-west-server-vancouver",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.75%",
+    "uptime": "97.82%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.02%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "97.82%",
     "time": 377,
     "timeDay": 0,
-    "timeWeek": 366,
-    "timeMonth": 299,
+    "timeWeek": 386,
+    "timeMonth": 298,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-05-21": 96,
+      "2025-05-22": 87,
+      "2025-05-21": 1440,
       "2025-05-20": 84
     }
   },
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 161,
+    "time": 253,
+    "timeDay": 229,
     "timeWeek": 191,
-    "timeMonth": 259,
-    "timeYear": 254,
+    "timeMonth": 258,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
