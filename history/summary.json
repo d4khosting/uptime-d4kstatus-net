@@ -1,29 +1,5 @@
 [
   {
-    "name": "CAN West Server (Vancouver)",
-    "url": "https://vps.d4khosting.net",
-    "icon": "https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg",
-    "slug": "can-west-server-vancouver",
-    "status": "down",
-    "uptime": "94.14%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "55.47%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "94.14%",
-    "time": 377,
-    "timeDay": 0,
-    "timeWeek": 438,
-    "timeMonth": 307,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2025-05-24": 85,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 84
-    }
-  },
-  {
     "name": "CAN East Server (Montreal)",
     "url": "https://vps.d4kservers.net",
     "icon": "https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg",
@@ -34,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 208,
-    "timeWeek": 230,
-    "timeMonth": 254,
-    "timeYear": 256,
+    "time": 254,
+    "timeDay": 168,
+    "timeWeek": 218,
+    "timeMonth": 250,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   }
 ]
