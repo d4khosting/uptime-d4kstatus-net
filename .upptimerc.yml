@@ -2,9 +2,6 @@ owner: d4khosting
 repo: uptime-d4kstatus-net 
 
 sites:
-  - name: CAN West Server (Vancouver)
-    url: https://vps.d4khosting.net
-    icon: https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg
   - name: CAN East Server (Montreal)
     url: https://vps.d4kservers.net
     icon: https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg
