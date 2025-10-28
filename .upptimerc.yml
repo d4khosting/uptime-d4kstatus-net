@@ -22,7 +22,7 @@ status-website:
       href: https://d4khosting.github.io/uptime-assets/css/d4k-status.css
   name: D4K Hosting Status
   introTitle: "**Uptime Status for D4K Hosting**"
-  introMessage: Real-time status and historical uptime records of D4K web hosting servers. During an outage, updates will be posted here. For regular hosting support, contact D4K Hosting by email at [support@hosting.ca](mailto:support@hosting.ca).
+  introMessage: Real-time status and historical uptime records of D4K web hosting servers. During an outage, updates will be posted here. For regular hosting support, contact D4K Hosting by email at [support@d4khosting.ca](mailto:support@d4khosting.ca).
   metaTags:
     - name: "robots"
       content: "noindex"
