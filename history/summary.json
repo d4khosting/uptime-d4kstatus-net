@@ -5,18 +5,16 @@
     "icon": "https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg",
     "slug": "can-east-server-montreal",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 279,
-    "timeDay": 384,
-    "timeWeek": 330,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 278,
+    "timeDay": 154,
+    "timeWeek": 293,
     "timeMonth": 286,
-    "timeYear": 279,
-    "dailyMinutesDown": {
-      "2025-11-07": 26
-    }
+    "timeYear": 278,
+    "dailyMinutesDown": {}
   }
 ]
