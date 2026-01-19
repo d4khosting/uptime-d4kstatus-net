@@ -6,17 +6,15 @@
     "slug": "can-east-server-montreal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 292,
-    "timeWeek": 199,
-    "timeMonth": 259,
+    "timeDay": 279,
+    "timeWeek": 203,
+    "timeMonth": 255,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2026-01-18": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
