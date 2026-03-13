@@ -4,17 +4,19 @@
     "url": "https://vps.d4kservers.net",
     "icon": "https://d4khosting.github.io/uptime-assets/images/internet-favicon-01.svg",
     "slug": "can-east-server-montreal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 304,
-    "timeWeek": 257,
-    "timeMonth": 253,
+    "timeDay": 291,
+    "timeWeek": 260,
+    "timeMonth": 254,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 44
+    }
   }
 ]
